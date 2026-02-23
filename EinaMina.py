@@ -1,0 +1,1 @@
+print("EINA\nmina\ndika")

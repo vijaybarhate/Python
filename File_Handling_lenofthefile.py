@@ -1,0 +1,5 @@
+f=open("LICENSE_1.txt","r")
+s=f.read()
+print("The Content")
+print(s)
+print("Length of this file is =",len(s))
